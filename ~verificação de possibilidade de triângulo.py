@@ -1,4 +1,4 @@
-a=int(input("digite o comprimento do primeiro lado\n"))
+a=int(input("digite o comprimento do \033[7;35;44mprimeiro lado\033[0;37;40m\n"))
 b=int(input("digite o comprimento do segundo lado\n"))
 c=int(input("digite o comprimento do terceiro lado\n"))
 
