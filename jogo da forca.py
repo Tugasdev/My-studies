@@ -62,3 +62,5 @@ if tentativas == 10:
 
 else: 
     print ("Ebaaaa conseguiu!!")
+
+input ('\n\nPressione qualquer tecla para fechar.')
